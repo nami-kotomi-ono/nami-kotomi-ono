@@ -1,5 +1,8 @@
-### Hi there 👋
 
+<div>プロフィール</div>
+<div>都内在住の女性、２３歳女性</div>
+<div>趣味はサウナ、スノボ、旅行、カレー屋巡り、猫を撫でること</div>
+<div>MBTIはINFJ</div>
 <!--
 **nami-kotomi-ono/nami-kotomi-ono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
