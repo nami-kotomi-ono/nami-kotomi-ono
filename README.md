@@ -4,7 +4,6 @@
 <div>趣味はサウナ、スノボ、旅行、カレー屋巡り、猫を撫でること</div>
 <div>MBTIはINFJ</div>
 <div>VueとLaravel使っています。</div>
-<div>ReactとDjangoで個人開発始めます。</div>
 <!--
 **nami-kotomi-ono/nami-kotomi-ono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
